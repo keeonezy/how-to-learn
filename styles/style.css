@@ -157,6 +157,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  z-index: 1;
 }
 
 .table__cell {
@@ -260,10 +261,6 @@
 .section-subtitle_theme_dark {
   color: white;
   margin: 0;
-}
-
-.table_theme_dark {
-  z-index: 1;
 }
 
 .table__cell_theme_dark {
