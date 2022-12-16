@@ -2,10 +2,8 @@
     width: 920px;
     margin: 0;
     padding: 0;
-    padding-top: 60px;
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: space-between; */
     column-gap: 100px;
     list-style: none;
 }
